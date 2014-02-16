@@ -18,7 +18,7 @@ decode_bigram.o: decode_bigram.cpp
 
 
 util.o: util.cpp
-	g++ -c util.cpp
+	g++ -O2 -c util.cpp
 
 
 .PHONY: clean
