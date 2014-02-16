@@ -26,7 +26,6 @@ train.txtはとれーにんぐふぁいる。
     Hello World .
     There is more than one way to it .
     \(^o^)/  (^q^)
-
 空行があってはいけない。
 
 ２つ目の数字と３つ目の数字は確率の計算に影響するぱらめーた。  
